@@ -2,5 +2,5 @@
 # Config data exposed by config server
 
 info:
-  foo: bar
+  foo: sobar
   someList: [2, 3, 7, 10]
