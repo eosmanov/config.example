@@ -1,0 +1,6 @@
+
+# Config data exposed by config server
+
+info:
+  foo: culticator-default
+  someList: [2, 3, 7, 10]
