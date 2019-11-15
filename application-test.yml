@@ -2,5 +2,5 @@
 # Config data exposed by config server
 
 info:
-  foo: testbar-cc
+  foo: testbar-cc-11
   someList: [2, 3, 7, 10]
